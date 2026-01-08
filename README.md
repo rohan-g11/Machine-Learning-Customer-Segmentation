@@ -46,6 +46,31 @@ Features:
 
 ---
 
+## 📊 Project Visualizations
+
+### 🔹 Data Distribution
+![Data Distribution](images/distribution.png)
+
+### 🔹 PairPlot 
+![2D Clustering](images/pairplot.png)
+
+### 🔹 Elbow Method for Optimal Clusters
+![Elbow Method](images/elbow.png)
+
+### 🔹 Silhouette Score Analysis
+![Silhouette Score](images/silhouette.png)
+
+### 🔹 2D Customer Segmentation
+![2D Clustering](images/cluster_2d.png)
+
+### 🔹 2D Customer Segmentation
+![2D Clustering](images/cluster_2d1.png)
+
+### 🔹 3D Customer Segmentation
+![3D Clustering](images/cluster_3d.png)
+
+---
+
 ## 📈 Visualizations
 - Distribution plots
 - Pair plots
